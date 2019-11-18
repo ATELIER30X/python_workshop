@@ -9,3 +9,4 @@ EN  https://www.w3schools.com/python/
 # practice
 CZ  https://www.umimeprogramovat.cz/programovani-v-pythonu
 EN  https://www.codecademy.com/
+
