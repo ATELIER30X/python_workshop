@@ -11,6 +11,10 @@ EN https://www.w3schools.com/python/
 
 # practice
 CZ https://www.umimeprogramovat.cz/programovani-v-pythonu
+(zaregistrujte se)
 
 EN https://www.codecademy.com/
 
+
+rozdíl '==' a 'is'
+https://stackoverflow.com/questions/132988/is-there-a-difference-between-and-is
