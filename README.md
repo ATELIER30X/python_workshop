@@ -8,6 +8,12 @@ EN https://www.learnpython.org/
 
 EN https://www.w3schools.com/python/
 
+funkce
+https://naucse.python.cz/lessons/beginners/def/
+
+rozdíl '==' a 'is'
+https://stackoverflow.com/questions/132988/is-there-a-difference-between-and-is
+
 
 # practice
 CZ https://www.umimeprogramovat.cz/programovani-v-pythonu
@@ -15,8 +21,4 @@ CZ https://www.umimeprogramovat.cz/programovani-v-pythonu
 
 EN https://www.codecademy.com/
 
-funkce
-https://naucse.python.cz/lessons/beginners/def/
 
-rozdíl '==' a 'is'
-https://stackoverflow.com/questions/132988/is-there-a-difference-between-and-is
